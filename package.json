@@ -72,6 +72,7 @@
   },
   "peerDependencies": {
     "react": "^18",
+    "react-dom": "^18",
     "rxjs": "^7.8.0",
     "sanity": "^3",
     "styled-components": "^5.3.6 || ^6.0.0"
